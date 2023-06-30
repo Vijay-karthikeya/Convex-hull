@@ -1,3 +1,3 @@
 # Convex-hull
 
-OpenGl Glut library is used for the visualising part which is there in dependencies.
+OpenGl Glut library is used for the visualizing part, which is in dependencies in the folder.
